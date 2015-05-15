@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63122e6d-bf18-483b-a4c7-3eb3adbdd8ef" name="Default" comment="" />
+    <ignored path="app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="app" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="vertical" split-proportion="0.4465174">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/__init__.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="3" column="18" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="286">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="manage.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/manage.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="8" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="374">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/main.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="18" column="0" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1452">
+                  <folding>
+                    <element signature="e#1#82#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="switch.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/models/switch.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="4" column="19" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286">
+                  <folding>
+                    <element signature="e#0#32#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="manager_client.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/cb/manager_client.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="9" column="22" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="814">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="management.py" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/cb/management.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="32" column="8" selection-start="749" selection-end="749" vertical-scroll-proportion="0.6666667" vertical-offset="484" max-vertical-offset="836">
+                  <folding>
+                    <element signature="e#0#14#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/cb/models.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="164" column="0" selection-start="5281" selection-end="5281" vertical-scroll-proportion="0.0" vertical-offset="3322" max-vertical-offset="5302">
+                  <folding>
+                    <element signature="e#0#34#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="exceptions.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/cb/exceptions.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="3" column="7" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="rpc.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/cb/rpc.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="68" column="33" selection-start="1890" selection-end="1890" vertical-scroll-proportion="0.0" vertical-offset="1333" max-vertical-offset="4180">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="swarm_client.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/cb/swarm_client.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="34" column="19" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0" vertical-offset="440" max-vertical-offset="2024">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="repl.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/cb/repl.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="160" column="11" selection-start="6102" selection-end="6102" vertical-scroll-proportion="0.0" vertical-offset="3410" max-vertical-offset="5192">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="sockets.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/cb/sockets.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="1" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="264">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/cb/__init__.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="4" column="0" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="264">
+                  <folding>
+                    <element signature="e#1#18#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="devices.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/cb/devices.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="7" column="32" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0" vertical-offset="8" max-vertical-offset="726">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="cb.py" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/cb/cb.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="20" column="7" selection-start="447" selection-end="447" vertical-scroll-proportion="0.37560976" vertical-offset="286" max-vertical-offset="2288">
+                  <folding>
+                    <element signature="e#0#14#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="__main__.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/cb/__main__.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="220">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/cb.py" />
+        <option value="$PROJECT_DIR$/rpc.py" />
+        <option value="$PROJECT_DIR$/dispatcher.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/cb/socket.py" />
+        <option value="$PROJECT_DIR$/cb/main.py" />
+        <option value="$PROJECT_DIR$/cb/model.py" />
+        <option value="$PROJECT_DIR$/cb/db/manager.py" />
+        <option value="$PROJECT_DIR$/cb/db/models.py" />
+        <option value="$PROJECT_DIR$/settings.py" />
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/cb/utils.py" />
+        <option value="$PROJECT_DIR$/cb/settings.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/sockets/thermometer.py" />
+        <option value="$PROJECT_DIR$/models/thermometer.py" />
+        <option value="$PROJECT_DIR$/sockets/__init__.py" />
+        <option value="$PROJECT_DIR$/models/__init__.py" />
+        <option value="$PROJECT_DIR$/sockets/boiler.py" />
+        <option value="$PROJECT_DIR$/models/boiler.py" />
+        <option value="$PROJECT_DIR$/models/temperature_control.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/cb/repl2.py" />
+        <option value="$PROJECT_DIR$/cb/management.py" />
+        <option value="$PROJECT_DIR$/__main__.py" />
+        <option value="$PROJECT_DIR$/cb/device.py" />
+        <option value="$PROJECT_DIR$/cb/sockets.py" />
+        <option value="$PROJECT_DIR$/cb/dispatcher.py" />
+        <option value="$PROJECT_DIR$/cb/swarm_sync.py" />
+        <option value="$PROJECT_DIR$/cb/manager.py" />
+        <option value="$PROJECT_DIR$/models/switch.py" />
+        <option value="$PROJECT_DIR$/cb/exceptions.py" />
+        <option value="$PROJECT_DIR$/cb/rpc.py" />
+        <option value="$PROJECT_DIR$/cb/__init__.py" />
+        <option value="$PROJECT_DIR$/cb/devices.py" />
+        <option value="$PROJECT_DIR$/cb/manager_client.py" />
+        <option value="$PROJECT_DIR$/cb/swarm_client.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/cb/models.py" />
+        <option value="$PROJECT_DIR$/cb/repl.py" />
+        <option value="$PROJECT_DIR$/cb/__main__.py" />
+        <option value="$PROJECT_DIR$/cb/cb.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sockets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Archimedes/archimedes" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sockets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cb" />
+      <recent name="$PROJECT_DIR$/cb/db" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <option name="name" value="Go application" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <option name="scriptName" value="" />
+      <option name="scriptArguments" value="" />
+      <option name="builderArguments" value="" />
+      <option name="goBuildBeforeRun" value="false" />
+      <option name="goOutputDir" value="" />
+      <option name="workingDir" value="" />
+      <option name="envVars" value="" />
+      <option name="goVetEnabled" value="false" />
+      <module name="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="app" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="app" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="app" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="app" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="app" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestConfiguration" factoryName="Go Test">
+      <option name="name" value="Go Test" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <option name="envVars" value="" />
+      <option name="testRunnerArgs" value="" />
+      <option name="testTargetType" value="Package" />
+      <option name="packageName" value="" />
+      <option name="packageDir" value="" />
+      <option name="testFile" value="" />
+      <option name="testArgs" value="" />
+      <option name="workingDir" value="" />
+      <option name="executeWhat" value="Test" />
+      <option name="filter" value="" />
+      <option name="useShortRun" value="false" />
+      <option name="testBeforeBenchmark" value="false" />
+      <option name="goVetEnabled" value="false" />
+      <module name="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="app" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="app" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63122e6d-bf18-483b-a4c7-3eb3adbdd8ef" name="Default" comment="" />
+      <created>1428597761821</created>
+      <updated>1428597761821</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15555556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cb/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="10" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0" vertical-offset="352" max-vertical-offset="770">
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="24" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="220" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/repl3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="2090" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/swarm_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="32" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="682">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="24" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="24" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="418">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="61" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="242" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/switch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="242">
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="220">
+          <folding>
+            <element signature="e#1#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="17" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="154" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/rpc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="18" selection-start="2767" selection-end="2767" vertical-scroll-proportion="0.0" vertical-offset="1914" max-vertical-offset="2706">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/management.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="20" selection-start="480" selection-end="480" vertical-scroll-proportion="0.0" vertical-offset="237" max-vertical-offset="682">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="34" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="24" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="484">
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="22" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="220" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/repl3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="3" selection-start="1036" selection-end="1036" vertical-scroll-proportion="0.0" vertical-offset="704" max-vertical-offset="2046" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/swarm_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="28" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="616">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/cb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="24" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="1056">
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="12" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="220" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="24" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="418">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="242" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/switch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="264">
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="383" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="242" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="10" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="39" max-vertical-offset="418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sockets/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="20" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="176" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="20" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="220" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/repl3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="12" selection-start="2044" selection-end="2044" vertical-scroll-proportion="0.0" vertical-offset="1410" max-vertical-offset="2024" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sockets/boiler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/temperature_control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="242" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="18" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/boiler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="14" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0" vertical-offset="103" max-vertical-offset="550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="7" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sockets/thermometer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="242">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/switch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="19" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286">
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/rpc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="33" selection-start="1890" selection-end="1890" vertical-scroll-proportion="0.0" vertical-offset="1333" max-vertical-offset="4180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/manager_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="22" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="814">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/sockets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="264">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/devices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="32" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0" vertical-offset="8" max-vertical-offset="726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1452">
+          <folding>
+            <element signature="e#1#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="164" column="0" selection-start="5281" selection-end="5281" vertical-scroll-proportion="0.0" vertical-offset="3322" max-vertical-offset="5302">
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/repl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="160" column="11" selection-start="6102" selection-end="6102" vertical-scroll-proportion="0.0" vertical-offset="3410" max-vertical-offset="5192">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="264">
+          <folding>
+            <element signature="e#1#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/management.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="8" selection-start="749" selection-end="749" vertical-scroll-proportion="0.6666667" vertical-offset="484" max-vertical-offset="836">
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/swarm_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="19" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0" vertical-offset="440" max-vertical-offset="2024">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="220">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cb/cb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="7" selection-start="447" selection-end="447" vertical-scroll-proportion="0.37560976" vertical-offset="286" max-vertical-offset="2288">
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

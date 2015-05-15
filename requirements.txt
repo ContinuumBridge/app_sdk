@@ -1,0 +1,5 @@
+Twisted
+-e git+https://github.com/oubiwann/txjsonrpc.git#egg=txjsonrpc
+traits
+click
+
